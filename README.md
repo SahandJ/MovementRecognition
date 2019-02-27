@@ -1,2 +1,3 @@
 # MovementRecognition
-Code will be added shortly after cleaning...
+
+This is the code for our master's thesis.
